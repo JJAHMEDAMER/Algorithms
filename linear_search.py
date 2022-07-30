@@ -18,3 +18,10 @@ len list returns the number of items in a list starting from 1
 range start from fist argument to the last argument -1 
     range(0, 9) 0 -> 8
 """
+
+
+
+"""
+Linear Search Big O 
+O(N)
+"""
